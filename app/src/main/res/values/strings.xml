@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WisataIndonesia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="wisata_favorite">Wisata Favorite</string>
+    <string name="wisata_indonesia">Wisata Indonesia</string>
+    <string name="profile">Profile</string>
+    <string name="name_febrian">Name : Febrian</string>
+    <string name="email_febrian26022001_gmail_com">Email : febrian26022001@gmail.com</string>
+</resources>
